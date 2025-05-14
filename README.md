@@ -1,5 +1,5 @@
 WakuPay
-<div align="center"> <img src="https://via.placeholder.com/200x200?text=WakuPay" alt="WakuPay Logo" width="200"/> <p><strong>Solución de pagos P2P, remesas y pagos en línea para Venezuela y Latinoamérica</strong></p> </div>
+<div align="center"> <img src="https://via.placeholder.com/200x200?text=WakuPay" alt="WakuPay Logo" width="200"/></div> <p><strong>Solución de pagos P2P, remesas y pagos en línea para Venezuela y Latinoamérica</strong></p> 
 📋 Descripción
 WakuPay es una plataforma fintech diseñada para resolver los problemas de pagos y remesas en Venezuela y Latinoamérica. Nuestro objetivo es proporcionar una solución accesible, segura y de bajo costo para:
 
@@ -33,8 +33,8 @@ Usuarios P2P: Venezolanos que necesitan enviar dinero localmente
 Remesas: Venezolanos en el exterior enviando dinero a familiares
 Comercios informales: Vendedores que operan por WhatsApp e Instagram
 Usuarios cripto: Personas buscando protección contra la inflación
-🗺️ Roadmap
 
+🗺️ Roadmap
 Fase 1: MVP Web (Actual)
 Implementación de interfaz básica
 Registro de usuarios
@@ -55,7 +55,7 @@ Botones de pago para comercios
 API para integraciones
 Expansión a otros países de LAC
 
-💻 # Instalación y Uso
+💻  Instalación y Uso
 Este proyecto está en desarrollo. Para contribuir:
 
 Clona el repositorio
