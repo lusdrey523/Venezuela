@@ -1,100 +1,206 @@
-WakuPay
-<div align="center"> <img src="https://via.placeholder.com/200x200?text=WakuPay" alt="WakuPay Logo" width="200"/></div> <p><strong>Solución de pagos P2P, remesas y pagos en línea para Venezuela y Latinoamérica</strong></p> 
-📋 Descripción
-WakuPay es una plataforma fintech diseñada para resolver los problemas de pagos y remesas en Venezuela y Latinoamérica. Nuestro objetivo es proporcionar una solución accesible, segura y de bajo costo para:
+<div align="center">
+  <img src="https://via.placeholder.com/300x300?text=WakuPay" alt="WakuPay Logo" width="300"/>
+  
+  # WakuPay
 
-Pagos P2P: Transferencias instantáneas entre usuarios
-Remesas: Envío de dinero transfronterizo a bajo costo
-Pagos en línea: Soluciones para comercios formales e informales
-Billetera cripto: Soporte para USDT y Bitcoin
+  <p align="center">
+    <strong>Revolucionando los pagos digitales en Venezuela y Latinoamérica</strong>
+  </p>
+  
+  <p align="center">
+    <a href="#-visión"><strong>Visión</strong></a> •
+    <a href="#-características-clave"><strong>Características</strong></a> •
+    <a href="#-roadmap"><strong>Roadmap</strong></a> •
+    <a href="#-tecnologías"><strong>Tecnologías</strong></a> •
+    <a href="#-instalación"><strong>Instalación</strong></a> •
+    <a href="#-contribuir"><strong>Contribuir</strong></a>
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow" alt="Estado: En Desarrollo"/>
+    <img src="https://img.shields.io/badge/Versión-0.1.0--alpha-blue" alt="Versión: 0.1.0-alpha"/>
+    <img src="https://img.shields.io/badge/Licencia-MIT-green" alt="Licencia: MIT"/>
+  </p>
+</div>
 
-🚀 Estado del Proyecto
-Actualmente en fase de desarrollo inicial (MVP). Este repositorio contiene el código fuente del prototipo web.
+---
 
-🛠️ Tecnologías
-El proyecto utiliza las siguientes tecnologías:
+## 🚀 Visión
 
-Frontend: React.js / Next.js
-Backend: Node.js con Express.js
-Base de datos: PostgreSQL / Supabase
-Blockchain: Integración con Ethereum (USDT) y Bitcoin
-Infraestructura: Vercel (despliegue)
+<table>
+<tr>
+<td width="70%">
 
-🔍 Visión
-En Venezuela y gran parte de Latinoamérica, millones de personas enfrentan desafíos para acceder a servicios financieros básicos. WakuPay busca:
+**WakuPay** nace para transformar radicalmente cómo los venezolanos y latinoamericanos realizan pagos digitales, envían remesas y acceden a servicios financieros.
 
-Reducir el costo de las remesas (actualmente 5-10% vs. nuestro 1-2%)
-Facilitar pagos para el comercio informal (80% de la economía venezolana)
-Proporcionar alternativas a la hiperinflación mediante opciones en dólares y criptomonedas
-Expandirse a mercados desatendidos en el Caribe, Perú y Ecuador
+En un contexto donde:
+- El **80%** de la economía venezolana es informal
+- Las remesas tienen costos del **5-10%**
+- Millones enfrentan problemas de acceso financiero
 
-📊 Mercado Objetivo
-Usuarios P2P: Venezolanos que necesitan enviar dinero localmente
-Remesas: Venezolanos en el exterior enviando dinero a familiares
-Comercios informales: Vendedores que operan por WhatsApp e Instagram
-Usuarios cripto: Personas buscando protección contra la inflación
+WakuPay proporciona una solución integral, accesible y de bajo costo que permite a cualquier persona enviar, recibir y administrar dinero de forma segura.
 
-🗺️ Roadmap
-Fase 1: MVP Web (Actual)
-Implementación de interfaz básica
-Registro de usuarios
-Simulación de transferencias P2P
+</td>
+<td width="30%">
+<div align="center">
+<img src="https://via.placeholder.com/300x200?text=Visión+WakuPay" alt="WakuPay Vision" width="100%"/>
+</div>
+</td>
+</tr>
+</table>
 
-Fase 2: Funcionalidades Core
-Integración con base de datos
-Autenticación real
-Transferencias P2P funcionales
+---
 
-Fase 3: Expansión
-Aplicación móvil (React Native)
-Integración de criptomonedas
-Remesas internacionales
+## ✨ Características Clave
 
-Fase 4: Comercialización
-Botones de pago para comercios
-API para integraciones
-Expansión a otros países de LAC
+<div align="center">
+<table>
+<tr>
+  <td align="center" width="25%">
+    <img src="https://via.placeholder.com/80x80?text=P2P" width="80" height="80"/><br />
+    <strong>Pagos P2P</strong><br />
+    Transferencias instantáneas entre usuarios
+  </td>
+  <td align="center" width="25%">
+    <img src="https://via.placeholder.com/80x80?text=Remesas" width="80" height="80"/><br />
+    <strong>Remesas</strong><br />
+    Envíos internacionales a bajo costo (1-2%)
+  </td>
+  <td align="center" width="25%">
+    <img src="https://via.placeholder.com/80x80?text=Comercios" width="80" height="80"/><br />
+    <strong>Pagos en Línea</strong><br />
+    Soluciones para comercios formales e informales
+  </td>
+  <td align="center" width="25%">
+    <img src="https://via.placeholder.com/80x80?text=Crypto" width="80" height="80"/><br />
+    <strong>Billetera Crypto</strong><br />
+    Soporte USDT y Bitcoin integrado
+  </td>
+</tr>
+</table>
+</div>
 
-💻  Instalación y Uso
-Este proyecto está en desarrollo. Para contribuir:
+---
 
-Clona el repositorio
-Instala las dependencias con npm install
-Ejecuta el servidor de desarrollo con npm run dev
+## 🌎 Mercado Objetivo
 
-👥 # Contribuciones
-Las contribuciones son bienvenidas. Si deseas colaborar:
+<div align="center">
+<table>
+<tr>
+  <td align="center" width="50%">
+    <h3>Usuarios Principales</h3>
+    <ul align="left">
+      <li>Venezolanos realizando pagos locales</li>
+      <li>Migrantes enviando remesas a sus familias</li>
+      <li>Comerciantes informales en WhatsApp/Instagram</li>
+      <li>Personas buscando protección contra inflación</li>
+    </ul>
+  </td>
+  <td align="center" width="50%">
+    <h3>Expansión Regional</h3>
+    <ul align="left">
+      <li><strong>Fase 1:</strong> Venezuela</li>
+      <li><strong>Fase 2:</strong> Colombia y Perú</li>
+      <li><strong>Fase 3:</strong> Caribe</li>
+      <li><strong>Fase 4:</strong> Centroamérica</li>
+    </ul>
+  </td>
+</tr>
+</table>
+</div>
 
-Haz fork del repositorio
-Crea una rama para tu feature (git checkout -b feature/amazing-feature)
-Haz commit de tus cambios (git commit -m 'Add some amazing feature')
-Push a la rama (git push origin feature/amazing-feature)
-Abre un Pull Request
+---
 
-📄 # Licencia
-Este proyecto está bajo la Licencia MIT 
-# MIT License
+## 🛣️ Roadmap
 
-Copyright (c) 2025 WakuPay
+<table>
+<tr>
+<td>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### Fase 1: MVP Web (Actual)
+- 🟢 Diseño de interfaz de usuario básica
+- 🟢 Sistema de registro de usuarios
+- 🟡 Simulación de transferencias P2P
+- ⚪ Prototipo de billetera digital
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### Fase 2: Funcionalidades Core
+- ⚪ Integración con Supabase/PostgreSQL
+- ⚪ Autenticación segura con 2FA
+- ⚪ Transferencias P2P funcionales
+- ⚪ Dashboard de usuario
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+</td>
+<td>
 
-📞 Contacto
-Lusdrey Teruzzi/lusdrey523 - Lusdreyteruzzi@gmail.com
+### Fase 3: Expansión
+- ⚪ Aplicación móvil (React Native)
+- ⚪ Integración de USDT/Bitcoin
+- ⚪ API para remesas internacionales
+- ⚪ Sistema de notificaciones
 
+### Fase 4: Comercialización
+- ⚪ Botones de pago para WhatsApp/Instagram
+- ⚪ API para integraciones de comercios
+- ⚪ Panel de administración para negocios
+- ⚪ Expansión a Colombia y Perú
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://via.placeholder.com/800x100?text=Timeline+2025-2026" alt="WakuPay Timeline" width="80%"/>
+</div>
+
+---
+
+## 🛠️ Tecnologías
+
+<div align="center">
+<table>
+<tr>
+  <td align="center" width="20%">
+    <img src="https://via.placeholder.com/60x60?text=Next.js" width="60" height="60"/><br />
+    <strong>Next.js</strong><br />
+    Frontend
+  </td>
+  <td align="center" width="20%">
+    <img src="https://via.placeholder.com/60x60?text=Node.js" width="60" height="60"/><br />
+    <strong>Node.js</strong><br />
+    Backend
+  </td>
+  <td align="center" width="20%">
+    <img src="https://via.placeholder.com/60x60?text=PostgreSQL" width="60" height="60"/><br />
+    <strong>PostgreSQL</strong><br />
+    Base de Datos
+  </td>
+  <td align="center" width="20%">
+    <img src="https://via.placeholder.com/60x60?text=Web3" width="60" height="60"/><br />
+    <strong>Web3</strong><br />
+    Blockchain
+  </td>
+  <td align="center" width="20%">
+    <img src="https://via.placeholder.com/60x60?text=Vercel" width="60" height="60"/><br />
+    <strong>Vercel</strong><br />
+    Hosting
+  </td>
+</tr>
+</table>
+</div>
+
+---
+
+## 💻 Instalación
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/tu-usuario/wakupay.git
+
+# Cambiar al directorio
+cd wakupay
+
+# Instalar dependencias
+npm install
+
+# Iniciar servidor de desarrollo
+npm run dev
