@@ -59,19 +59,16 @@ WakuPay proporciona una solución integral, accesible y de bajo costo que permit
   <td align="center" width="25%">
     <img src="https://twitgoo.com/wp-content/uploads/2022/09/9281f7f2-5965-4230-8005-b89faa609d23_image.png" width="80" height="80"/><br />
     <strong>Pagos P2P</strong><br />
-
     Transferencias instantáneas entre usuarios
   </td>
   <td align="center" width="25%">
     <img src="https://elceo.com/wp-content/uploads/2024/05/Remesas-2.jpg" width="80" height="80"/><br />
     <strong>Remesas</strong><br />
-
     Envíos internacionales a bajo costo (1-2%)
   </td>
   <td align="center" width="25%">
     <img src="https://www.cronista.com/tools/image.php?id=134181&p=/files/image/134/134181/5ff783753aaec.jpg&w=3000&h=1875&s=d01d1fa192891e9b7cd592a2ec57745b&dpr=2" width="80" height="80"/><br />
     <strong>Pagos en Línea</strong><br />
-
     Soluciones para comercios formales e informales
   </td>
   <td align="center" width="25%">
