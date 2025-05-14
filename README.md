@@ -43,7 +43,7 @@ WakuPay proporciona una solución integral, accesible y de bajo costo que permit
 </td>
 <td width="30%">
 <div align="center">
-<img src="https://via.placeholder.com/300x200?text=Visión+WakuPay" alt="WakuPay Vision" width="100%"/>
+<img src="https://github.com/lusdrey523/Venezuela/blob/main/516258bd-2fa8-4fcb-bdfd-f5c097846e1f.png" alt="WakuPay Vision" width="80%"/>
 </div>
 </td>
 </tr>
