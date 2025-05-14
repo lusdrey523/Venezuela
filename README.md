@@ -160,8 +160,10 @@ WakuPay proporciona una solución integral, accesible y de bajo costo que permit
 <table>
 <tr>
   <td align="center" width="20%">
-    <img src="[https://www.sphinx-solution.com/blog/wp-content/uploads/2023/11/nextjs.webp" width="60" height="60"/><br />
+    <img src="https://it.hasethblog.com/wp-content/uploads/2024/01/nextjs-768x690.jpeg" width="60" height="60"/><br />
     <strong>Next.js</strong><br />
+
+https://it.hasethblog.com/wp-content/uploads/2024/01/nextjs-768x690.jpeg
     Frontend
   </td>
   <td align="center" width="20%">
