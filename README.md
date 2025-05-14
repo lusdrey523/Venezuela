@@ -72,9 +72,10 @@ WakuPay proporciona una solución integral, accesible y de bajo costo que permit
     Soluciones para comercios formales e informales
   </td>
   <td align="center" width="25%">
-    <img src="https://via.placeholder.com/80x80?text=Crypto" width="80" height="80"/><br />
+    <img src="https://blog.mindchain.cl/wp-content/uploads/2023/04/o9rnkyncqu4.jpg" width="80" height="80"/><br />
     <strong>Billetera Crypto</strong><br />
     Soporte USDT y Bitcoin integrado
+
   </td>
 </tr>
 </table>
@@ -165,22 +166,22 @@ WakuPay proporciona una solución integral, accesible y de bajo costo que permit
     Frontend
   </td>
   <td align="center" width="20%">
-    <img src="https://via.placeholder.com/60x60?text=Node.js" width="60" height="60"/><br />
+    <img src="https://velog.velcdn.com/images/gjdbqls25/post/38b143e2-e406-4892-afe6-d5872f18558f/1_OWpoPsr8wK1DKmXfi_4d4Q.png" width="60" height="60"/><br />
     <strong>Node.js</strong><br />
     Backend
   </td>
   <td align="center" width="20%">
-    <img src="https://via.placeholder.com/60x60?text=PostgreSQL" width="60" height="60"/><br />
+    <img src="https://1.bp.blogspot.com/-cdyYr8QqKj8/X-0eA71A-JI/AAAAAAACJCM/55m-UG29rDcGMhPjVLvcnjw6U23SXqmVwCLcBGAsYHQ/w1200-h630-p-k-no-nu/postgresql.png" width="60" height="60"/><br />
     <strong>PostgreSQL</strong><br />
-    Base de Datos
+Base de Datos
   </td>
   <td align="center" width="20%">
-    <img src="https://via.placeholder.com/60x60?text=Web3" width="60" height="60"/><br />
+    <img src="https://wallpaperaccess.com/full/1425009.jpg" width="60" height="60"/><br />
     <strong>Web3</strong><br />
     Blockchain
   </td>
   <td align="center" width="20%">
-    <img src="https://via.placeholder.com/60x60?text=Vercel" width="60" height="60"/><br />
+    <img src="https://edteam-media.s3.amazonaws.com/blogs/original/6014f00c-c66a-46e4-8f38-cd02858135fc.png" width="60" height="60"/><br />
     <strong>Vercel</strong><br />
     Hosting
   </td>
