@@ -39,27 +39,30 @@ Fase 1: MVP Web (Actual)
 Implementación de interfaz básica
 Registro de usuarios
 Simulación de transferencias P2P
+
 Fase 2: Funcionalidades Core
 Integración con base de datos
 Autenticación real
 Transferencias P2P funcionales
+
 Fase 3: Expansión
 Aplicación móvil (React Native)
 Integración de criptomonedas
 Remesas internacionales
+
 Fase 4: Comercialización
 Botones de pago para comercios
 API para integraciones
 Expansión a otros países de LAC
 
-💻 Instalación y Uso
+💻 # Instalación y Uso
 Este proyecto está en desarrollo. Para contribuir:
 
 Clona el repositorio
 Instala las dependencias con npm install
 Ejecuta el servidor de desarrollo con npm run dev
 
-👥 Contribuciones
+👥 # Contribuciones
 Las contribuciones son bienvenidas. Si deseas colaborar:
 
 Haz fork del repositorio
@@ -68,7 +71,7 @@ Haz commit de tus cambios (git commit -m 'Add some amazing feature')
 Push a la rama (git push origin feature/amazing-feature)
 Abre un Pull Request
 
-📄 Licencia
+📄 # Licencia
 Este proyecto está bajo la Licencia MIT 
 # MIT License
 
