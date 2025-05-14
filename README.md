@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/300x300?text=WakuPay" alt="WakuPay Logo" width="300"/>
+  <img src="https://github.com/lusdrey523/Venezuela/blob/main/516258bd-2fa8-4fcb-bdfd-f5c097846e1f.png" alt="WakuPay Logo" width="300"/>
   
   # WakuPay
 
