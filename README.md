@@ -102,25 +102,27 @@ WakuPay se dirige a una audiencia diversa con un plan de expansión regional est
         <h3>Expansión Regional</h3>
         <ul align="left">
           <li><strong>Fase 1 (Primer semestre de 2029):</strong> Lanzamiento en Venezuela</li>
-          <li><strong>Fase 2 (2032):</strong> Colombia</li>
-          <li><strong>Fase 3 (2034):</strong> Ecuador y Perú</li>
+          <li><strong>Fase 2 (2031):</strong> Colombiay Perú</li>
+          <li><strong>Fase 3 (2033):</strong> Ecuador y Bolivia </li>
           <li><strong>Fase 4 (2036):</strong> Mexíco y Panamá</li>
-          <li><strong>Fase 5 (2038):</strong> Chile</li>
-          <li><strong>Fase 6 (2040):</strong> Bolivia y Paraguay</li>
-          <li><strong>Fase 7 (2042):</strong> Argentina</li>
-          <li><strong>Fase 8 (2045):</strong> Aruba, Bonaire, Curacao y Republica Dominicana</li>
-          <li><strong>Fase 9 (2047):</strong> Uruguay, El Salvador, Granada, St Vicente y las Granadinas y Barbados</li>
-          <li><strong>Fase 10 (2048):</strong> Brasil </li>
-          <li><strong>Fase 11 (2051):</strong> Guyana, Trinidad y Tobago, Surinam y Guyana Francesa</li>
-          <li><strong>Fase 12 (2053):</strong> Canada</li>
-          <li><strong>Fase 13 (2055):</strong> Costa Rica, Nicaragua</li>
-          <li><strong>Fase 14 (2057):</strong> Honduras y Jamaica</li>
-          <li><strong>Fase 15 (2059):</strong> Guatemala y Belice</li>
-          <li><strong>Fase 16 (2060):</strong> Haiti y Antigua y Barbuda</li>
-          <li><strong>Fase 17 (2062):</strong> santa lucia Guadalupe, Martinica</li>
-          <li><strong>Fase 18 (2065):</strong> Estados Unidos y Puerto Rico</li>
-          <li><strong>Fase 19 (2068):</strong> Las Bahamas y las Islas Virgenes Norteamericanas y Britanicas</li>
-          <li><strong>Fase 20 (2070):</strong>Empresa Lider En El Mercado latinoamericano y caribeño incluyendo america del norte</li>
+          <li><strong>Fase 5 (2038):</strong> Chile y Argentina</li>
+          <li><strong>Fase 6 (2040):</strong> Rep. Dominicana, Aruba, Curazao, Trinidad y Tobago</li>
+          <li><strong>Fase 7 (2042):</strong> Costa Rica, Nicaragua, Honduras, Guatemala</li>
+          <li><strong>Fase 8 (2045):</strong> Brasil y Bonaire</li>
+          <li><strong>Fase 9 (2047):</strong> Bahamas, Jamaica y Barbados</li>
+          <li><strong>Fase 10 (2048):</strong> Granada, St Vicente y las Granadinas</li>
+          <li><strong>Fase 11 (2050):</strong> Meta intermedia: Posicionarse como un actor relevante en América Latina y el Caribe, con 5-10 millones de usuarios.</li>
+          <li><strong>Fase 12 (2050):</strong> primeras Evaluaciones para entrar a EE.UU., Canadá, y Puerto Rico, dependiendo del éxito previo.</li>
+          <li><strong>Fase 13 (2052):</strong> Guyana, Trinidad y Tobago, Surinam y Guyana Francesa</li>
+          <li><strong>Fase 13 (2054):</strong> Costa Rica, Nicaragua</li>
+          <li><strong>Fase 14 (2055):</strong> Evaluaciones Generales para entrar a EE.UU., Canadá, y Puerto Rico, dependiendo del éxito previo.</li>
+          <li><strong>Fase 15 (2056):</strong> Honduras y Jamaica</li>
+          <li><strong>Fase 16 (2057):</strong> Guatemala y Belice</li>
+          <li><strong>Fase 17 (2059):</strong> Haiti y Antigua y Barbuda</li>
+          <li><strong>Fase 12 (2060):</strong> EE.UU., Canadá, y Puerto Rico</li>
+          <li><strong>Fase 18 (2061):</strong> santa lucia, Guadalupe y Martinica</li>
+          <li><strong>Fase 19 (2065):</strong> Las Bahamas y las Islas Virgenes Norteamericanas y Britanicas</li>
+          <li><strong>Fase 20 (2070):</strong>Empresa Lider En El Mercado latinoamericano y caribeño, con gran influencia en america del norte</li>
         </ul>
       </td>
     </tr>
