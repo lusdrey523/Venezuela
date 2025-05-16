@@ -121,7 +121,6 @@ WakuPay se dirige a una audiencia diversa con un plan de expansión regional est
           <li><strong>Fase 18 (2065):</strong> Estados Unidos, Islas Virgenes Norteamericanas y Britanicas y Puerto Rico</li>
           <li><strong>Fase 19 (2068):</strong> Las Bahamas</li>
           <li><strong>Fase 20 (2070):</strong> Canada</li>
-
         </ul>
       </td>
     </tr>
