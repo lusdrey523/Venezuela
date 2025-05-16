@@ -101,16 +101,27 @@ WakuPay se dirige a una audiencia diversa con un plan de expansión regional est
       <td align="center" width="50%">
         <h3>Expansión Regional</h3>
         <ul align="left">
-          <li><strong>Fase 1 (2028):</strong> Lanzamiento en Venezuela</li>
-          <li><strong>Fase 2 (2030):</strong> Colombia, Ecuador y Perú</li>
-          <li><strong>Fase 3 (2032):</strong> Mexíco y Panamá</li>
-          <li><strong>Fase 4 (2035):</strong> Chile, Bolivia y Paraguay</li>
-          <li><strong>Fase 5 (2038):</strong> Uruguay y Argentina</li>
-          <li><strong>Fase 6 (2040):</strong> Aruba, Bonaire, Curacao y Republica Dominicana</li>
-          <li><strong>Fase 7 (2042):</strong> Brasil, Cuba y Jamaica</li>
-          <li><strong>Fase 8 (2045):</strong> Guyana, Trinidad y Tobago, Surinam y Guyana Francesa</li>
-          <li><strong>Fase 9 (2048):</strong> Granada, St Vicente y las Granadinas y Barbados</li>
-          <li><strong>Fase 10 (2050):</strong> Costa Rica, Nicaragua, Honduras y El Salvador</li>
+          <li><strong>Fase 1 (Primer semestre de 2029):</strong> Lanzamiento en Venezuela</li>
+          <li><strong>Fase 2 (2032):</strong> Colombia</li>
+          <li><strong>Fase 3 (2034):</strong> Ecuador y Perú</li>
+          <li><strong>Fase 4 (2036):</strong> Mexíco y Panamá</li>
+          <li><strong>Fase 5 (2038):</strong> Chile</li>
+          <li><strong>Fase 6 (2040):</strong> Bolivia y Paraguay</li>
+          <li><strong>Fase 7 (2042):</strong> Argentina</li>
+          <li><strong>Fase 8 (2045):</strong> Aruba, Bonaire, Curacao y Republica Dominicana</li>
+          <li><strong>Fase 9 (2047):</strong> Uruguay y El Salvador</li>
+          <li><strong>Fase 10 (2048):</strong> Brasil </li>
+          <li><strong>Fase 11 (2051):</strong> Guyana, Trinidad y Tobago, Surinam y Guyana Francesa</li>
+          <li><strong>Fase 12 (2053):</strong> Granada, St Vicente y las Granadinas y Barbados</li>
+          <li><strong>Fase 13 (2055):</strong> Costa Rica, Nicaragua</li>
+          <li><strong>Fase 14 (2057):</strong> Honduras y Jamaica</li>
+          <li><strong>Fase 15 (2059):</strong> Guatemala y Belice</li>
+          <li><strong>Fase 16 (2060):</strong> Haiti y Antigua y Barbuda</li>
+          <li><strong>Fase 17 (2062):</strong> santa lucia Guadalupe, Martinica</li>
+          <li><strong>Fase 18 (2065):</strong> Estados Unidos, Islas Virgenes Norteamericanas y Britanicas y Puerto Rico</li>
+          <li><strong>Fase 19 (2068):</strong> Las Bahamas</li>
+          <li><strong>Fase 20 (2070):</strong> Canada</li>
+
         </ul>
       </td>
     </tr>
