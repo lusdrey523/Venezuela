@@ -109,18 +109,18 @@ WakuPay se dirige a una audiencia diversa con un plan de expansión regional est
           <li><strong>Fase 6 (2040):</strong> Bolivia y Paraguay</li>
           <li><strong>Fase 7 (2042):</strong> Argentina</li>
           <li><strong>Fase 8 (2045):</strong> Aruba, Bonaire, Curacao y Republica Dominicana</li>
-          <li><strong>Fase 9 (2047):</strong> Uruguay y El Salvador</li>
+          <li><strong>Fase 9 (2047):</strong> Uruguay, El Salvador, Granada, St Vicente y las Granadinas y Barbados</li>
           <li><strong>Fase 10 (2048):</strong> Brasil </li>
           <li><strong>Fase 11 (2051):</strong> Guyana, Trinidad y Tobago, Surinam y Guyana Francesa</li>
-          <li><strong>Fase 12 (2053):</strong> Granada, St Vicente y las Granadinas y Barbados</li>
+          <li><strong>Fase 12 (2053):</strong> Canada</li>
           <li><strong>Fase 13 (2055):</strong> Costa Rica, Nicaragua</li>
           <li><strong>Fase 14 (2057):</strong> Honduras y Jamaica</li>
           <li><strong>Fase 15 (2059):</strong> Guatemala y Belice</li>
           <li><strong>Fase 16 (2060):</strong> Haiti y Antigua y Barbuda</li>
           <li><strong>Fase 17 (2062):</strong> santa lucia Guadalupe, Martinica</li>
-          <li><strong>Fase 18 (2065):</strong> Estados Unidos, Islas Virgenes Norteamericanas y Britanicas y Puerto Rico</li>
-          <li><strong>Fase 19 (2068):</strong> Las Bahamas</li>
-          <li><strong>Fase 20 (2070):</strong> Canada</li>
+          <li><strong>Fase 18 (2065):</strong> Estados Unidos y Puerto Rico</li>
+          <li><strong>Fase 19 (2068):</strong> Las Bahamas y las Islas Virgenes Norteamericanas y Britanicas</li>
+          <li><strong>Fase 20 (2070):</strong>Empresa Lider En El Mercado latinoamericano y caribeño incluyendo america del norte</li>
         </ul>
       </td>
     </tr>
