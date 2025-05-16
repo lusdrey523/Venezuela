@@ -101,16 +101,16 @@ WakuPay se dirige a una audiencia diversa con un plan de expansión regional est
       <td align="center" width="50%">
         <h3>Expansión Regional</h3>
         <ul align="left">
-          <li><strong>Fase 1 (2026):</strong> Lanzamiento en Venezuela</li>
-          <li><strong>Fase 2 (2027):</strong> Colombia, Ecuador y Perú</li>
-          <li><strong>Fase 3 (2028):</strong> Mexíco, Estados Unidos</li>
-          <li><strong>Fase 4 (2029):</strong> Panamá, Bolivia y Paraguay</li>
-          <li><strong>Fase 5 (2030):</strong> Uruguay, Chile y Argentina</li>
-          <li><strong>Fase 6 (2032):</strong> Aruba, Bonaire, Curacao y Republica Dominicana</li>
-          <li><strong>Fase 7 (2034):</strong> Brasil, Cuba y Jamaica</li>
-          <li><strong>Fase 8 (2035):</strong> Guyana, Trinidad y Tobago, Surinam y Guyana Francesa</li>
-          <li><strong>Fase 9 (2036):</strong> Granada, St Vicente y las Granadinas y Barbados</li>
-          <li><strong>Fase 10 (2038):</strong> Costa Rica, Nicaragua, Honduras y El Salvador</li>
+          <li><strong>Fase 1 (2028):</strong> Lanzamiento en Venezuela</li>
+          <li><strong>Fase 2 (2030):</strong> Colombia, Ecuador y Perú</li>
+          <li><strong>Fase 3 (2032):</strong> Mexíco y Panamá</li>
+          <li><strong>Fase 4 (2035):</strong> Chile, Bolivia y Paraguay</li>
+          <li><strong>Fase 5 (2038):</strong> Uruguay y Argentina</li>
+          <li><strong>Fase 6 (2040):</strong> Aruba, Bonaire, Curacao y Republica Dominicana</li>
+          <li><strong>Fase 7 (2042):</strong> Brasil, Cuba y Jamaica</li>
+          <li><strong>Fase 8 (2045):</strong> Guyana, Trinidad y Tobago, Surinam y Guyana Francesa</li>
+          <li><strong>Fase 9 (2048):</strong> Granada, St Vicente y las Granadinas y Barbados</li>
+          <li><strong>Fase 10 (2050):</strong> Costa Rica, Nicaragua, Honduras y El Salvador</li>
         </ul>
       </td>
     </tr>
