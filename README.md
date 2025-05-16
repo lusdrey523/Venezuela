@@ -101,10 +101,16 @@ WakuPay se dirige a una audiencia diversa con un plan de expansión regional est
       <td align="center" width="50%">
         <h3>Expansión Regional</h3>
         <ul align="left">
-          <li><strong>Fase 1 (2025):</strong> Lanzamiento en Venezuela</li>
-          <li><strong>Fase 2 (2026):</strong> Colombia y Perú</li>
-          <li><strong>Fase 3 (2027):</strong> Caribe</li>
-          <li><strong>Fase 4 (2028):</strong> Centroamérica</li>
+          <li><strong>Fase 1 (2026):</strong> Lanzamiento en Venezuela</li>
+          <li><strong>Fase 2 (2027):</strong> Colombia, Ecuador y Perú</li>
+          <li><strong>Fase 3 (2028):</strong> Mexíco, Estados Unidos</li>
+          <li><strong>Fase 4 (2029):</strong> Panamá, Bolivia y Paraguay</li>
+          <li><strong>Fase 5 (2030):</strong> Uruguay, Chile y Argentina</li>
+          <li><strong>Fase 6 (2032):</strong> Aruba, Bonaire, Curacao y Republica Dominicana</li>
+          <li><strong>Fase 7 (2034):</strong> Brasil, Cuba y Jamaica</li>
+          <li><strong>Fase 8 (2035):</strong> Guyana, Trinidad y Tobago, Surinam y Guyana Francesa</li>
+          <li><strong>Fase 9 (2036):</strong> Granada, St Vicente y las Granadinas y Barbados</li>
+          <li><strong>Fase 10 (2038):</strong> Costa Rica, Nicaragua, Honduras y El Salvador</li>
         </ul>
       </td>
     </tr>
@@ -245,7 +251,7 @@ WakuPay es un proyecto abierto a la colaboración. Te invitamos a unirte y ayuda
 - Reporta problemas o sugerencias abriendo un [Issue](https://github.com/lusdrey523/wakupay/issues).
 
 ### Aviso legal sobre propiedad intelectual
-**Todos los derechos de autor y la propiedad intelectual de WakuPay, incluyendo su concepto, diseño y código fuente, son propiedad exclusiva de Luis [Apellido], creador original del proyecto, registrado bajo la jurisdicción aplicable. Las contribuciones realizadas a este repositorio se rigen por la Licencia MIT, pero no otorgan derechos de propiedad ni participación en WakuPay a los colaboradores, salvo en los casos excepcionales descritos a continuación. 
+**Todos los derechos de autor y la propiedad intelectual de WakuPay, incluyendo su concepto, diseño y código fuente, son propiedad exclusiva de Luis Breto, creador original del proyecto, registrado bajo la jurisdicción aplicable. Las contribuciones realizadas a este repositorio se rigen por la Licencia MIT, pero no otorgan derechos de propiedad ni participación en WakuPay a los colaboradores, salvo en los casos excepcionales descritos a continuación. 
 Como incentivo para los colaboradores más destacados, se ofrece la posibilidad de asignar entre un **0.01% y un 3% del capital accionario total de WakuPay** 
 reservado a aquellos individuos que demuestren un aporte significativo al desarrollo del proyecto, a criterio exclusivo de Luis Breto, y sujeto a la formalización de un acuerdo legal por escrito entre las partes. 
 Cualquier uso comercial o distribución del proyecto sin autorización expresa por escrito del creador está prohibido y podrá ser perseguido legalmente conforme a las leyes de propiedad intelectual vigentes.**
